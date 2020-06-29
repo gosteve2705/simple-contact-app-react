@@ -8,7 +8,7 @@ function App() {
         name="Beyonce"
         image="https://blackhistorywall.files.wordpress.com/2010/02/picture-device-independent-bitmap-119.jpg"
         phone="+123 456 789"
-        email="b@beyonce.com"
+        email="babe@beyonce.com"
       />
       <Card
         name="Jack Bauer"
